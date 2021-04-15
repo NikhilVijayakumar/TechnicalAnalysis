@@ -10,5 +10,6 @@ setup(name='Trading',
         'seaborn',
         'pandas_datareader',
         'python-dateutil',
+        'tradingview_ta',
     ]
       )
