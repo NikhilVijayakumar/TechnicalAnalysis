@@ -11,5 +11,6 @@ setup(name='Trading',
         'pandas_datareader',
         'python-dateutil',
         'tradingview_ta',
+        'tabulate'
     ]
       )
